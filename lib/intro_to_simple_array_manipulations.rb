@@ -42,4 +42,5 @@ def using_delete(array, integer)
   
 end
 
-def usin
+def using_delete()
+end
